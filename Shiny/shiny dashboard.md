@@ -2,11 +2,9 @@
 * dashboardHeader  
 * dashboardSidebar  
   * sidebarMenu  
-     * MenuItem  
-     * MenuItem  
+     * menuItem  
+     * menuItem  
 * dashboardBody  
   * tabItems  
     * tabItem  
     * tabItem  
-`ui.R and server.R`  
-[link](#name)
