@@ -2,11 +2,9 @@ dashboardPage
 * dashboardHeader  
 * dashboardSidebar  
 -- sidebarMenu  
---- MenuItem  
+<ul>
+<li>MenuItem</li>
+<li>MenuItem</li>
 * dashboardBody  
 -- tabItems  
 --- tabItem  
-
-<div style="background-color:lightblue">
-dashboardBody
-</div>
