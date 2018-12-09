@@ -1,9 +1,10 @@
-<font color='green'>dashboardPage</font>  
+* dashboardPage
 * dashboardHeader  
 * dashboardSidebar  
--- sidebarMenu  
-MenuItem
-MenuItem
+  * sidebarMenu  
+     * MenuItem  
+     * MenuItem  
 * dashboardBody  
--- tabItems  
---- tabItem  
+  * tabItems  
+    * tabItem  
+    * tabItem
