@@ -7,5 +7,5 @@
 * dashboardBody  
   * tabItems  
     * tabItem  
-    * tabItem
+    * tabItem  
 `ui.R and server.R`
