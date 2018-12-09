@@ -20,5 +20,5 @@ body <- dashboardBody()
 dashboardPage(header, sidebar, body)
 ```
 
-[reactiveTimer](#https://shiny.rstudio.com/reference/shiny/0.14/reactiveTimer.html)
+[reactiveTimer](https://shiny.rstudio.com/reference/shiny/0.14/reactiveTimer.html)
 
