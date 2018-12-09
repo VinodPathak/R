@@ -8,3 +8,14 @@
   * tabItems  
     * tabItem  
     * tabItem  
+
+
+```
+header <- dashboardHeader()
+
+sidebar <- dashboardSidebar()
+
+body <- dashboardBody()
+
+dashboardPage(header, sidebar, body)
+```
