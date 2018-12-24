@@ -16,3 +16,6 @@
 #### infer - R package for tidy-verse friendly statistical inference  
 #### summarytools - quickly and neatly summarize vectors and dataframes  
 >> https://heartbeat.fritz.ai/weekly-digest-for-data-science-and-ai-python-and-r-volume-4-7959858b67c0  
+
+
+>> https://www.datasciencecentral.com/profiles/blogs/userful-r-packages-that-aligns-with-the-crisp-dm-methodology  
